@@ -1,3 +1,10 @@
+# ZSH Notification for macOS
+
+If you want to have a beautiful notification that appears when a super-long-command (more than 10 seconds) you executed just returned, you can use that snippet. It will look something like this:
+
+![](command.png)
+
+
 Just add this to your .zshrc and have ruby installed.
 
 ```bash
